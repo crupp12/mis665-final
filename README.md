@@ -9,3 +9,4 @@ https://nbviewer.jupyter.org/github/crupp12/mis665-final/blob/master/Rupp_C_Fina
 
 Below is a link to my video presentation.
 
+https://www.youtube.com/watch?v=uqTGsD5P508
